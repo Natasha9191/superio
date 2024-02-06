@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Feb 2024 20:20:30 at https://www.experte.com/background-remover +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.experte.com/background-remover -O1 "C:\Users\Sanvi Sardana\Downloads\supero\supero" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:21:37	Warning: 	Moved Permanently for www.experte.com/robots.txt
+20:21:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.experte.com/robots.txt and https://www.experte.com/robots.txt
+20:21:37	Warning: 	Warning moved treated for www.experte.com/robots.txt (real one is https://www.experte.com/robots.txt)
+20:21:37	Warning: 	Moved Permanently for www.experte.com/
+20:21:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.experte.com/ and https://www.experte.com/
+20:21:37	Warning: 	File has moved from www.experte.com/ to https://www.experte.com/
+21:15:30	Error: 	"Not Found" (404) at link https://www.experte.com/images/pikto-icons-illu.png?w=800 (from https://www.experte.com/online-design/piktochart)
+21:15:30	Error: 	"Not Found" (404) at link https://www.experte.com/images/tailor-brands-icons-en.png?w=800 (from https://www.experte.com/logo-design/tailor-brands)
+21:15:30	Warning: 	Link https://www.experte.com/images/pixa-pond5.png?w=800 not scanned (follow robots meta tag)
+21:15:55	Warning: 	Link https://www.experte.com/images/campaignmonitor-e-mail-editor.png?w=800 not scanned (follow robots meta tag)
+21:15:59	Warning: 	Link https://www.experte.com/images/jimdo-support-de-1.png?w=800 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 minutes 29 seconds : 4561 links scanned, 4556 files written (444172538 bytes overall) [201110142 bytes received at 60411 bytes/sec], 294668395 bytes transferred using HTTP compression in 745 files, ratio 16%, 131.1 requests per connection
+(2 errors, 9 warnings, 0 messages)
